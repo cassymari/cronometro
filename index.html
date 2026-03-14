@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cronômetro</title>
+    <link rel="stylesheet" href="./style.css">
+
+
+</head>
+
+<body>
+    <div class="cronometro">
+        <h1>Cronômetro</h1>
+        <div class="tempo" id="tempo">00:00:00</div>
+        <div class="botoes">
+            <button class="start" id="start">Iniciar</button>
+            <button class="pause" id="pause">Pausar</button>
+            <button class="reset" id="reset">Zerar</button>
+            <button onclick="marcarVolta()">Volta</button>
+
+            <ul id="voltas"></ul>
+        </div>
+    </div>
+
+    <script src="./scrits.js"></script>
+</body>
+
+</html>
