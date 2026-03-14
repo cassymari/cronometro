@@ -6,9 +6,14 @@ O projeto permite controlar o tempo com funções de **iniciar, pausar, zerar e 
 Este projeto foi criado para praticar **manipulação do DOM, controle de tempo e eventos em JavaScript**, além de trabalhar com organização de layout e estilização moderna.
 
 ---
+
 ## 🌐 Projeto Online
 
 https://cassymari.github.io/cronometro
+
+
+
+![Preview do Projeto](./assets/img-conometro..jpeg)
 
 ---
 
